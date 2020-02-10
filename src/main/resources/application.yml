@@ -1,0 +1,8 @@
+# properties 방식에 비해 YAML의 이점?
+# 많은 설정을 오버라이드하는 경우 키의 중복을 허용하지 않음
+#server:
+#  port: 9000
+#logging:
+#  level:
+#    com:
+#      greglturnquist: debug
